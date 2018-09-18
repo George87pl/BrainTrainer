@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="title_activity_test_brain">TestBrain</string>
+    <string name="licznik">%1$os</string>
+    <string name="question">%1$o + %2$o</string>
+    <string name="score">%1$o/%2$o</string>
+</resources>
